@@ -1,502 +1,1002 @@
 Write-Output 'Let the puppy killing commence'
 pause
-Write-Host -ForegroundColor DarkMagenta 1
-Write-Host -ForegroundColor Blue 2
-Write-Host -ForegroundColor DarkGray 3
-Write-Host -ForegroundColor Cyan 4
-Write-Host -ForegroundColor Cyan 5
-Write-Host -ForegroundColor Cyan 6
-Write-Host -ForegroundColor DarkRed 7
-Write-Host -ForegroundColor Cyan 8
-Write-Host -ForegroundColor DarkMagenta 9
-Write-Host -ForegroundColor DarkGreen 10
-Write-Host -ForegroundColor DarkMagenta 11
-Write-Host -ForegroundColor Black 12
-Write-Host -ForegroundColor DarkGray 13
-Write-Host -ForegroundColor Blue 14
-Write-Host -ForegroundColor DarkGreen 15
-Write-Host -ForegroundColor DarkCyan 16
-Write-Host -ForegroundColor DarkGray 17
-Write-Host -ForegroundColor DarkBlue 18
-Write-Host -ForegroundColor Cyan 19
-Write-Host -ForegroundColor Blue 20
-Write-Host -ForegroundColor DarkMagenta 21
-Write-Host -ForegroundColor DarkMagenta 22
-Write-Host -ForegroundColor DarkCyan 23
-Write-Host -ForegroundColor Black 24
-Write-Host -ForegroundColor DarkMagenta 25
-Write-Host -ForegroundColor Cyan 26
-Write-Host -ForegroundColor DarkGreen 27
-Write-Host -ForegroundColor DarkBlue 28
-Write-Host -ForegroundColor DarkGray 29
-Write-Host -ForegroundColor DarkBlue 30
-Write-Host -ForegroundColor DarkBlue 31
-Write-Host -ForegroundColor Blue 32
-Write-Host -ForegroundColor Cyan 33
-Write-Host -ForegroundColor Blue 34
-Write-Host -ForegroundColor DarkGreen 35
-Write-Host -ForegroundColor Black 36
-Write-Host -ForegroundColor DarkMagenta 37
-Write-Host -ForegroundColor DarkGreen 38
-Write-Host -ForegroundColor DarkMagenta 39
-Write-Host -ForegroundColor DarkRed 40
-Write-Host -ForegroundColor Blue 41
-Write-Host -ForegroundColor DarkCyan 42
-Write-Host -ForegroundColor DarkBlue 43
-Write-Host -ForegroundColor DarkGreen 44
-Write-Host -ForegroundColor DarkBlue 45
-Write-Host -ForegroundColor DarkCyan 46
-Write-Host -ForegroundColor DarkCyan 47
-Write-Host -ForegroundColor DarkRed 48
-Write-Host -ForegroundColor DarkRed 49
-Write-Host -ForegroundColor DarkGray 50
-Write-Host -ForegroundColor Blue 51
-Write-Host -ForegroundColor DarkGreen 52
-Write-Host -ForegroundColor DarkCyan 53
-Write-Host -ForegroundColor DarkRed 54
-Write-Host -ForegroundColor DarkBlue 55
-Write-Host -ForegroundColor DarkGreen 56
-Write-Host -ForegroundColor Cyan 57
-Write-Host -ForegroundColor DarkMagenta 58
-Write-Host -ForegroundColor DarkGray 59
-Write-Host -ForegroundColor DarkGreen 60
-Write-Host -ForegroundColor DarkGreen 61
-Write-Host -ForegroundColor DarkGray 62
-Write-Host -ForegroundColor Cyan 63
-Write-Host -ForegroundColor Cyan 64
-Write-Host -ForegroundColor DarkCyan 65
-Write-Host -ForegroundColor Black 66
-Write-Host -ForegroundColor DarkGreen 67
-Write-Host -ForegroundColor Cyan 68
-Write-Host -ForegroundColor Black 69
-Write-Host -ForegroundColor DarkGreen 70
-Write-Host -ForegroundColor Blue 71
-Write-Host -ForegroundColor Blue 72
-Write-Host -ForegroundColor DarkRed 73
-Write-Host -ForegroundColor DarkCyan 74
-Write-Host -ForegroundColor Cyan 75
-Write-Host -ForegroundColor DarkBlue 76
-Write-Host -ForegroundColor DarkGray 77
-Write-Host -ForegroundColor DarkMagenta 78
-Write-Host -ForegroundColor DarkRed 79
-Write-Host -ForegroundColor DarkCyan 80
-Write-Host -ForegroundColor Blue 81
-Write-Host -ForegroundColor Cyan 82
-Write-Host -ForegroundColor DarkRed 83
-Write-Host -ForegroundColor DarkBlue 84
-Write-Host -ForegroundColor DarkGray 85
-Write-Host -ForegroundColor DarkMagenta 86
-Write-Host -ForegroundColor Black 87
-Write-Host -ForegroundColor DarkRed 88
-Write-Host -ForegroundColor DarkGreen 89
-Write-Host -ForegroundColor Cyan 90
-Write-Host -ForegroundColor Blue 91
-Write-Host -ForegroundColor DarkMagenta 92
-Write-Host -ForegroundColor DarkBlue 93
-Write-Host -ForegroundColor DarkGray 94
-Write-Host -ForegroundColor DarkRed 95
-Write-Host -ForegroundColor DarkGreen 96
-Write-Host -ForegroundColor DarkGray 97
-Write-Host -ForegroundColor DarkGray 98
-Write-Host -ForegroundColor Black 99
-Write-Host -ForegroundColor DarkCyan 100
-Write-Host -ForegroundColor DarkGreen 101
-Write-Host -ForegroundColor Blue 102
-Write-Host -ForegroundColor DarkMagenta 103
-Write-Host -ForegroundColor DarkGreen 104
-Write-Host -ForegroundColor DarkCyan 105
-Write-Host -ForegroundColor Blue 106
-Write-Host -ForegroundColor DarkGreen 107
-Write-Host -ForegroundColor DarkGreen 108
-Write-Host -ForegroundColor DarkCyan 109
-Write-Host -ForegroundColor Cyan 110
-Write-Host -ForegroundColor Black 111
-Write-Host -ForegroundColor DarkGreen 112
-Write-Host -ForegroundColor DarkGreen 113
-Write-Host -ForegroundColor Cyan 114
-Write-Host -ForegroundColor Black 115
-Write-Host -ForegroundColor Black 116
-Write-Host -ForegroundColor Black 117
-Write-Host -ForegroundColor Blue 118
-Write-Host -ForegroundColor DarkMagenta 119
-Write-Host -ForegroundColor Cyan 120
-Write-Host -ForegroundColor DarkBlue 121
-Write-Host -ForegroundColor DarkMagenta 122
-Write-Host -ForegroundColor DarkMagenta 123
-Write-Host -ForegroundColor DarkGray 124
-Write-Host -ForegroundColor DarkCyan 125
-Write-Host -ForegroundColor DarkRed 126
-Write-Host -ForegroundColor Cyan 127
-Write-Host -ForegroundColor Black 128
-Write-Host -ForegroundColor DarkGray 129
-Write-Host -ForegroundColor DarkCyan 130
-Write-Host -ForegroundColor Cyan 131
-Write-Host -ForegroundColor Black 132
-Write-Host -ForegroundColor DarkGreen 133
-Write-Host -ForegroundColor DarkBlue 134
-Write-Host -ForegroundColor DarkRed 135
-Write-Host -ForegroundColor DarkGreen 136
-Write-Host -ForegroundColor DarkGray 137
-Write-Host -ForegroundColor DarkRed 138
-Write-Host -ForegroundColor DarkGreen 139
-Write-Host -ForegroundColor DarkCyan 140
-Write-Host -ForegroundColor DarkCyan 141
-Write-Host -ForegroundColor DarkCyan 142
-Write-Host -ForegroundColor Black 143
-Write-Host -ForegroundColor DarkMagenta 144
-Write-Host -ForegroundColor DarkCyan 145
-Write-Host -ForegroundColor Blue 146
-Write-Host -ForegroundColor DarkRed 147
-Write-Host -ForegroundColor DarkGreen 148
-Write-Host -ForegroundColor Black 149
-Write-Host -ForegroundColor DarkCyan 150
-Write-Host -ForegroundColor Blue 151
-Write-Host -ForegroundColor DarkMagenta 152
-Write-Host -ForegroundColor DarkCyan 153
-Write-Host -ForegroundColor DarkMagenta 154
-Write-Host -ForegroundColor DarkBlue 155
-Write-Host -ForegroundColor Black 156
-Write-Host -ForegroundColor DarkMagenta 157
-Write-Host -ForegroundColor DarkMagenta 158
-Write-Host -ForegroundColor DarkGreen 159
-Write-Host -ForegroundColor DarkGray 160
-Write-Host -ForegroundColor DarkRed 161
-Write-Host -ForegroundColor Black 162
-Write-Host -ForegroundColor Black 163
-Write-Host -ForegroundColor Black 164
-Write-Host -ForegroundColor Blue 165
-Write-Host -ForegroundColor DarkMagenta 166
-Write-Host -ForegroundColor Cyan 167
-Write-Host -ForegroundColor Cyan 168
-Write-Host -ForegroundColor Cyan 169
-Write-Host -ForegroundColor DarkRed 170
-Write-Host -ForegroundColor DarkMagenta 171
-Write-Host -ForegroundColor DarkBlue 172
-Write-Host -ForegroundColor DarkRed 173
-Write-Host -ForegroundColor DarkMagenta 174
-Write-Host -ForegroundColor DarkBlue 175
-Write-Host -ForegroundColor DarkRed 176
-Write-Host -ForegroundColor DarkCyan 177
-Write-Host -ForegroundColor DarkMagenta 178
-Write-Host -ForegroundColor DarkMagenta 179
-Write-Host -ForegroundColor DarkCyan 180
-Write-Host -ForegroundColor Black 181
-Write-Host -ForegroundColor DarkBlue 182
-Write-Host -ForegroundColor Cyan 183
-Write-Host -ForegroundColor Blue 184
-Write-Host -ForegroundColor DarkRed 185
-Write-Host -ForegroundColor DarkBlue 186
-Write-Host -ForegroundColor DarkCyan 187
-Write-Host -ForegroundColor Black 188
-Write-Host -ForegroundColor DarkMagenta 189
-Write-Host -ForegroundColor DarkCyan 190
-Write-Host -ForegroundColor Cyan 191
-Write-Host -ForegroundColor DarkMagenta 192
-Write-Host -ForegroundColor DarkMagenta 193
-Write-Host -ForegroundColor DarkGray 194
-Write-Host -ForegroundColor DarkMagenta 195
-Write-Host -ForegroundColor DarkBlue 196
-Write-Host -ForegroundColor DarkGreen 197
-Write-Host -ForegroundColor DarkGray 198
-Write-Host -ForegroundColor DarkBlue 199
-Write-Host -ForegroundColor DarkMagenta 200
-Write-Host -ForegroundColor DarkRed 201
-Write-Host -ForegroundColor DarkMagenta 202
-Write-Host -ForegroundColor Cyan 203
-Write-Host -ForegroundColor DarkBlue 204
-Write-Host -ForegroundColor Blue 205
-Write-Host -ForegroundColor DarkBlue 206
-Write-Host -ForegroundColor DarkMagenta 207
-Write-Host -ForegroundColor Blue 208
-Write-Host -ForegroundColor DarkRed 209
-Write-Host -ForegroundColor DarkRed 210
-Write-Host -ForegroundColor DarkMagenta 211
-Write-Host -ForegroundColor DarkMagenta 212
-Write-Host -ForegroundColor DarkGray 213
-Write-Host -ForegroundColor DarkGreen 214
-Write-Host -ForegroundColor DarkMagenta 215
-Write-Host -ForegroundColor Cyan 216
-Write-Host -ForegroundColor DarkCyan 217
-Write-Host -ForegroundColor Blue 218
-Write-Host -ForegroundColor DarkCyan 219
-Write-Host -ForegroundColor DarkGray 220
-Write-Host -ForegroundColor Black 221
-Write-Host -ForegroundColor DarkBlue 222
-Write-Host -ForegroundColor Blue 223
-Write-Host -ForegroundColor Blue 224
-Write-Host -ForegroundColor DarkBlue 225
-Write-Host -ForegroundColor DarkBlue 226
-Write-Host -ForegroundColor DarkRed 227
-Write-Host -ForegroundColor DarkRed 228
-Write-Host -ForegroundColor DarkBlue 229
-Write-Host -ForegroundColor Blue 230
-Write-Host -ForegroundColor Black 231
-Write-Host -ForegroundColor DarkCyan 232
-Write-Host -ForegroundColor DarkRed 233
-Write-Host -ForegroundColor DarkRed 234
-Write-Host -ForegroundColor DarkGreen 235
-Write-Host -ForegroundColor DarkCyan 236
-Write-Host -ForegroundColor Blue 237
-Write-Host -ForegroundColor DarkRed 238
-Write-Host -ForegroundColor DarkGray 239
-Write-Host -ForegroundColor DarkGray 240
-Write-Host -ForegroundColor DarkGray 241
-Write-Host -ForegroundColor DarkRed 242
-Write-Host -ForegroundColor Blue 243
-Write-Host -ForegroundColor Black 244
-Write-Host -ForegroundColor Black 245
-Write-Host -ForegroundColor DarkGreen 246
-Write-Host -ForegroundColor DarkRed 247
-Write-Host -ForegroundColor Cyan 248
-Write-Host -ForegroundColor DarkRed 249
-Write-Host -ForegroundColor Blue 250
-Write-Host -ForegroundColor DarkGray 251
-Write-Host -ForegroundColor DarkCyan 252
-Write-Host -ForegroundColor Black 253
-Write-Host -ForegroundColor Cyan 254
-Write-Host -ForegroundColor DarkCyan 255
-Write-Host -ForegroundColor Cyan 256
-Write-Host -ForegroundColor DarkRed 257
-Write-Host -ForegroundColor Black 258
-Write-Host -ForegroundColor DarkRed 259
-Write-Host -ForegroundColor DarkRed 260
-Write-Host -ForegroundColor DarkMagenta 261
-Write-Host -ForegroundColor Blue 262
-Write-Host -ForegroundColor DarkGreen 263
-Write-Host -ForegroundColor DarkGreen 264
-Write-Host -ForegroundColor DarkBlue 265
-Write-Host -ForegroundColor DarkGray 266
-Write-Host -ForegroundColor Blue 267
-Write-Host -ForegroundColor DarkBlue 268
-Write-Host -ForegroundColor Black 269
-Write-Host -ForegroundColor Black 270
-Write-Host -ForegroundColor DarkRed 271
-Write-Host -ForegroundColor DarkGray 272
-Write-Host -ForegroundColor DarkGreen 273
-Write-Host -ForegroundColor DarkGreen 274
-Write-Host -ForegroundColor DarkGreen 275
-Write-Host -ForegroundColor DarkCyan 276
-Write-Host -ForegroundColor DarkMagenta 277
-Write-Host -ForegroundColor DarkBlue 278
-Write-Host -ForegroundColor DarkBlue 279
-Write-Host -ForegroundColor Black 280
-Write-Host -ForegroundColor DarkGray 281
-Write-Host -ForegroundColor DarkGray 282
-Write-Host -ForegroundColor DarkGray 283
-Write-Host -ForegroundColor DarkRed 284
-Write-Host -ForegroundColor DarkBlue 285
-Write-Host -ForegroundColor DarkBlue 286
-Write-Host -ForegroundColor DarkRed 287
-Write-Host -ForegroundColor DarkGray 288
-Write-Host -ForegroundColor DarkCyan 289
-Write-Host -ForegroundColor DarkGray 290
-Write-Host -ForegroundColor Cyan 291
-Write-Host -ForegroundColor Black 292
-Write-Host -ForegroundColor DarkRed 293
-Write-Host -ForegroundColor Black 294
-Write-Host -ForegroundColor DarkBlue 295
-Write-Host -ForegroundColor DarkRed 296
-Write-Host -ForegroundColor DarkGray 297
-Write-Host -ForegroundColor DarkMagenta 298
-Write-Host -ForegroundColor DarkCyan 299
-Write-Host -ForegroundColor DarkGray 300
-Write-Host -ForegroundColor Blue 301
-Write-Host -ForegroundColor DarkGray 302
-Write-Host -ForegroundColor DarkGray 303
-Write-Host -ForegroundColor Blue 304
-Write-Host -ForegroundColor DarkBlue 305
-Write-Host -ForegroundColor DarkCyan 306
-Write-Host -ForegroundColor DarkBlue 307
-Write-Host -ForegroundColor DarkGray 308
-Write-Host -ForegroundColor Cyan 309
-Write-Host -ForegroundColor DarkGray 310
-Write-Host -ForegroundColor Black 311
-Write-Host -ForegroundColor DarkMagenta 312
-Write-Host -ForegroundColor DarkBlue 313
-Write-Host -ForegroundColor Black 314
-Write-Host -ForegroundColor DarkCyan 315
-Write-Host -ForegroundColor DarkBlue 316
-Write-Host -ForegroundColor Black 317
-Write-Host -ForegroundColor Black 318
-Write-Host -ForegroundColor Blue 319
-Write-Host -ForegroundColor Cyan 320
-Write-Host -ForegroundColor Black 321
-Write-Host -ForegroundColor DarkGreen 322
-Write-Host -ForegroundColor Cyan 323
-Write-Host -ForegroundColor DarkCyan 324
-Write-Host -ForegroundColor DarkGray 325
-Write-Host -ForegroundColor DarkRed 326
-Write-Host -ForegroundColor DarkMagenta 327
-Write-Host -ForegroundColor DarkRed 328
-Write-Host -ForegroundColor DarkBlue 329
-Write-Host -ForegroundColor Black 330
-Write-Host -ForegroundColor Cyan 331
-Write-Host -ForegroundColor DarkCyan 332
-Write-Host -ForegroundColor DarkGreen 333
-Write-Host -ForegroundColor DarkGreen 334
-Write-Host -ForegroundColor DarkMagenta 335
-Write-Host -ForegroundColor Cyan 336
-Write-Host -ForegroundColor DarkGray 337
-Write-Host -ForegroundColor Black 338
-Write-Host -ForegroundColor DarkGray 339
-Write-Host -ForegroundColor Blue 340
-Write-Host -ForegroundColor Cyan 341
-Write-Host -ForegroundColor Blue 342
-Write-Host -ForegroundColor Black 343
-Write-Host -ForegroundColor Blue 344
-Write-Host -ForegroundColor DarkBlue 345
-Write-Host -ForegroundColor DarkGray 346
-Write-Host -ForegroundColor Black 347
-Write-Host -ForegroundColor Cyan 348
-Write-Host -ForegroundColor DarkCyan 349
-Write-Host -ForegroundColor DarkMagenta 350
-Write-Host -ForegroundColor DarkMagenta 351
-Write-Host -ForegroundColor DarkGreen 352
-Write-Host -ForegroundColor DarkCyan 353
-Write-Host -ForegroundColor DarkCyan 354
-Write-Host -ForegroundColor DarkMagenta 355
-Write-Host -ForegroundColor Blue 356
-Write-Host -ForegroundColor DarkBlue 357
-Write-Host -ForegroundColor DarkMagenta 358
-Write-Host -ForegroundColor Black 359
-Write-Host -ForegroundColor Blue 360
-Write-Host -ForegroundColor DarkGreen 361
-Write-Host -ForegroundColor Cyan 362
-Write-Host -ForegroundColor Cyan 363
-Write-Host -ForegroundColor Black 364
-Write-Host -ForegroundColor DarkGreen 365
-Write-Host -ForegroundColor DarkMagenta 366
-Write-Host -ForegroundColor Blue 367
-Write-Host -ForegroundColor DarkMagenta 368
-Write-Host -ForegroundColor DarkMagenta 369
-Write-Host -ForegroundColor DarkCyan 370
-Write-Host -ForegroundColor Blue 371
-Write-Host -ForegroundColor DarkBlue 372
-Write-Host -ForegroundColor DarkGray 373
-Write-Host -ForegroundColor Cyan 374
-Write-Host -ForegroundColor DarkGray 375
-Write-Host -ForegroundColor DarkRed 376
-Write-Host -ForegroundColor DarkCyan 377
-Write-Host -ForegroundColor Cyan 378
-Write-Host -ForegroundColor Cyan 379
-Write-Host -ForegroundColor DarkMagenta 380
-Write-Host -ForegroundColor DarkGray 381
-Write-Host -ForegroundColor Blue 382
-Write-Host -ForegroundColor DarkRed 383
-Write-Host -ForegroundColor DarkBlue 384
-Write-Host -ForegroundColor DarkBlue 385
-Write-Host -ForegroundColor DarkGreen 386
-Write-Host -ForegroundColor Blue 387
-Write-Host -ForegroundColor DarkCyan 388
-Write-Host -ForegroundColor DarkCyan 389
-Write-Host -ForegroundColor DarkGreen 390
-Write-Host -ForegroundColor Blue 391
-Write-Host -ForegroundColor DarkMagenta 392
-Write-Host -ForegroundColor Blue 393
-Write-Host -ForegroundColor DarkGray 394
-Write-Host -ForegroundColor Black 395
-Write-Host -ForegroundColor DarkCyan 396
-Write-Host -ForegroundColor DarkMagenta 397
-Write-Host -ForegroundColor DarkRed 398
-Write-Host -ForegroundColor DarkGray 399
-Write-Host -ForegroundColor DarkRed 400
-Write-Host -ForegroundColor DarkRed 401
-Write-Host -ForegroundColor DarkCyan 402
-Write-Host -ForegroundColor Black 403
-Write-Host -ForegroundColor DarkCyan 404
-Write-Host -ForegroundColor Blue 405
-Write-Host -ForegroundColor Cyan 406
-Write-Host -ForegroundColor Blue 407
-Write-Host -ForegroundColor DarkGreen 408
-Write-Host -ForegroundColor Blue 409
-Write-Host -ForegroundColor DarkGreen 410
-Write-Host -ForegroundColor DarkCyan 411
-Write-Host -ForegroundColor Blue 412
-Write-Host -ForegroundColor DarkRed 413
-Write-Host -ForegroundColor DarkRed 414
-Write-Host -ForegroundColor DarkMagenta 415
-Write-Host -ForegroundColor DarkBlue 416
-Write-Host -ForegroundColor DarkGray 417
-Write-Host -ForegroundColor DarkBlue 418
-Write-Host -ForegroundColor DarkBlue 419
-Write-Host -ForegroundColor Black 420
-Write-Host -ForegroundColor DarkMagenta 421
-Write-Host -ForegroundColor DarkGreen 422
-Write-Host -ForegroundColor DarkGray 423
-Write-Host -ForegroundColor Black 424
-Write-Host -ForegroundColor Black 425
-Write-Host -ForegroundColor DarkMagenta 426
-Write-Host -ForegroundColor DarkGray 427
-Write-Host -ForegroundColor DarkGray 428
-Write-Host -ForegroundColor DarkBlue 429
-Write-Host -ForegroundColor DarkBlue 430
-Write-Host -ForegroundColor Black 431
-Write-Host -ForegroundColor DarkCyan 432
-Write-Host -ForegroundColor Cyan 433
-Write-Host -ForegroundColor Cyan 434
-Write-Host -ForegroundColor Black 435
-Write-Host -ForegroundColor DarkMagenta 436
-Write-Host -ForegroundColor DarkGreen 437
-Write-Host -ForegroundColor Blue 438
-Write-Host -ForegroundColor DarkMagenta 439
-Write-Host -ForegroundColor DarkGreen 440
-Write-Host -ForegroundColor Black 441
-Write-Host -ForegroundColor DarkGreen 442
-Write-Host -ForegroundColor DarkBlue 443
-Write-Host -ForegroundColor DarkBlue 444
-Write-Host -ForegroundColor DarkGreen 445
-Write-Host -ForegroundColor DarkGreen 446
-Write-Host -ForegroundColor DarkGray 447
-Write-Host -ForegroundColor DarkGreen 448
-Write-Host -ForegroundColor DarkRed 449
-Write-Host -ForegroundColor Cyan 450
-Write-Host -ForegroundColor Cyan 451
-Write-Host -ForegroundColor DarkBlue 452
-Write-Host -ForegroundColor Blue 453
-Write-Host -ForegroundColor DarkMagenta 454
-Write-Host -ForegroundColor Blue 455
-Write-Host -ForegroundColor Blue 456
-Write-Host -ForegroundColor Blue 457
-Write-Host -ForegroundColor Blue 458
-Write-Host -ForegroundColor Black 459
-Write-Host -ForegroundColor DarkMagenta 460
-Write-Host -ForegroundColor DarkBlue 461
-Write-Host -ForegroundColor DarkBlue 462
-Write-Host -ForegroundColor DarkCyan 463
-Write-Host -ForegroundColor DarkGray 464
-Write-Host -ForegroundColor Black 465
-Write-Host -ForegroundColor Cyan 466
-Write-Host -ForegroundColor DarkBlue 467
-Write-Host -ForegroundColor DarkBlue 468
-Write-Host -ForegroundColor DarkMagenta 469
-Write-Host -ForegroundColor DarkGray 470
-Write-Host -ForegroundColor DarkGray 471
-Write-Host -ForegroundColor DarkRed 472
-Write-Host -ForegroundColor DarkBlue 473
-Write-Host -ForegroundColor DarkRed 474
-Write-Host -ForegroundColor Blue 475
-Write-Host -ForegroundColor DarkMagenta 476
-Write-Host -ForegroundColor DarkCyan 477
-Write-Host -ForegroundColor DarkCyan 478
-Write-Host -ForegroundColor DarkMagenta 479
-Write-Host -ForegroundColor DarkGray 480
-Write-Host -ForegroundColor Cyan 481
-Write-Host -ForegroundColor DarkCyan 482
-Write-Host -ForegroundColor Cyan 483
-Write-Host -ForegroundColor DarkBlue 484
-Write-Host -ForegroundColor DarkMagenta 485
-Write-Host -ForegroundColor DarkCyan 486
-Write-Host -ForegroundColor DarkRed 487
-Write-Host -ForegroundColor Cyan 488
-Write-Host -ForegroundColor DarkCyan 489
-Write-Host -ForegroundColor Blue 490
-Write-Host -ForegroundColor DarkMagenta 491
-Write-Host -ForegroundColor DarkBlue 492
-Write-Host -ForegroundColor Blue 493
-Write-Host -ForegroundColor DarkMagenta 494
-Write-Host -ForegroundColor DarkRed 495
-Write-Host -ForegroundColor Black 496
-Write-Host -ForegroundColor Black 497
-Write-Host -ForegroundColor DarkRed 498
-Write-Host -ForegroundColor Cyan 499
-Write-Host -ForegroundColor Blue 500
+Write-Host -ForegroundColor DarkRed -BackgroundColor Green 1
+Write-Host -ForegroundColor Green -BackgroundColor Yellow 2
+Write-Host -ForegroundColor Green -BackgroundColor Yellow 3
+Write-Host -ForegroundColor Black -BackgroundColor White 4
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkCyan 5
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkGreen 6
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkCyan 7
+Write-Host -ForegroundColor Yellow -BackgroundColor Red 8
+Write-Host -ForegroundColor Red -BackgroundColor Black 9
+Write-Host -ForegroundColor Green -BackgroundColor DarkCyan 10
+Write-Host -ForegroundColor White -BackgroundColor Cyan 11
+Write-Host -ForegroundColor Blue -BackgroundColor White 12
+Write-Host -ForegroundColor DarkGray -BackgroundColor Cyan 13
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkCyan 14
+Write-Host -ForegroundColor Red -BackgroundColor DarkGreen 15
+Write-Host -ForegroundColor Red -BackgroundColor Blue 16
+Write-Host -ForegroundColor Green -BackgroundColor Cyan 17
+Write-Host -ForegroundColor Black -BackgroundColor DarkGray 18
+Write-Host -ForegroundColor Black -BackgroundColor Cyan 19
+Write-Host -ForegroundColor Gray -BackgroundColor Black 20
+Write-Host -ForegroundColor Gray -BackgroundColor DarkRed 21
+Write-Host -ForegroundColor Magenta -BackgroundColor Red 22
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkCyan 23
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Green 24
+Write-Host -ForegroundColor Red -BackgroundColor DarkMagenta 25
+Write-Host -ForegroundColor White -BackgroundColor Black 26
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkMagenta 27
+Write-Host -ForegroundColor Gray -BackgroundColor DarkRed 28
+Write-Host -ForegroundColor Black -BackgroundColor Blue 29
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkYellow 30
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkRed 31
+Write-Host -ForegroundColor Black -BackgroundColor DarkYellow 32
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Green 33
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 34
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Black 35
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Cyan 36
+Write-Host -ForegroundColor Blue -BackgroundColor Cyan 37
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkGreen 38
+Write-Host -ForegroundColor White -BackgroundColor Green 39
+Write-Host -ForegroundColor White -BackgroundColor DarkGray 40
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Cyan 41
+Write-Host -ForegroundColor Red -BackgroundColor DarkYellow 42
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Black 43
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 44
+Write-Host -ForegroundColor Red -BackgroundColor White 45
+Write-Host -ForegroundColor DarkGray -BackgroundColor Cyan 46
+Write-Host -ForegroundColor Black -BackgroundColor DarkMagenta 47
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkCyan 48
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkBlue 49
+Write-Host -ForegroundColor Red -BackgroundColor DarkBlue 50
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkBlue 51
+Write-Host -ForegroundColor Red -BackgroundColor Black 52
+Write-Host -ForegroundColor Blue -BackgroundColor Red 53
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkRed 54
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Gray 55
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Blue 56
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkMagenta 57
+Write-Host -ForegroundColor Cyan -BackgroundColor Gray 58
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 59
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkGray 60
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkGreen 61
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Magenta 62
+Write-Host -ForegroundColor Blue -BackgroundColor Gray 63
+Write-Host -ForegroundColor Black -BackgroundColor White 64
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkMagenta 65
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkMagenta 66
+Write-Host -ForegroundColor Green -BackgroundColor DarkMagenta 67
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkMagenta 68
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 69
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkRed 70
+Write-Host -ForegroundColor DarkRed -BackgroundColor Red 71
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkYellow 72
+Write-Host -ForegroundColor Yellow -BackgroundColor Red 73
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkGreen 74
+Write-Host -ForegroundColor Cyan -BackgroundColor White 75
+Write-Host -ForegroundColor Red -BackgroundColor DarkCyan 76
+Write-Host -ForegroundColor Blue -BackgroundColor DarkGreen 77
+Write-Host -ForegroundColor DarkRed -BackgroundColor Gray 78
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Cyan 79
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Cyan 80
+Write-Host -ForegroundColor Black -BackgroundColor DarkGreen 81
+Write-Host -ForegroundColor Gray -BackgroundColor Green 82
+Write-Host -ForegroundColor Green -BackgroundColor Yellow 83
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkGray 84
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Yellow 85
+Write-Host -ForegroundColor Green -BackgroundColor DarkGray 86
+Write-Host -ForegroundColor DarkYellow -BackgroundColor White 87
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Black 88
+Write-Host -ForegroundColor Green -BackgroundColor Gray 89
+Write-Host -ForegroundColor Green -BackgroundColor DarkMagenta 90
+Write-Host -ForegroundColor DarkGray -BackgroundColor Black 91
+Write-Host -ForegroundColor Black -BackgroundColor White 92
+Write-Host -ForegroundColor Gray -BackgroundColor DarkRed 93
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Red 94
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Magenta 95
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Green 96
+Write-Host -ForegroundColor Blue -BackgroundColor DarkRed 97
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkYellow 98
+Write-Host -ForegroundColor Blue -BackgroundColor DarkMagenta 99
+Write-Host -ForegroundColor Black -BackgroundColor Cyan 100
+Write-Host -ForegroundColor White -BackgroundColor Gray 101
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Red 102
+Write-Host -ForegroundColor Black -BackgroundColor DarkBlue 103
+Write-Host -ForegroundColor DarkGreen -BackgroundColor White 104
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 105
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Yellow 106
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 107
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Cyan 108
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Gray 109
+Write-Host -ForegroundColor Yellow -BackgroundColor White 110
+Write-Host -ForegroundColor DarkGray -BackgroundColor Gray 111
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGray 112
+Write-Host -ForegroundColor Cyan -BackgroundColor Blue 113
+Write-Host -ForegroundColor White -BackgroundColor Blue 114
+Write-Host -ForegroundColor Yellow -BackgroundColor Gray 115
+Write-Host -ForegroundColor Red -BackgroundColor DarkRed 116
+Write-Host -ForegroundColor Black -BackgroundColor Gray 117
+Write-Host -ForegroundColor White -BackgroundColor Red 118
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Red 119
+Write-Host -ForegroundColor White -BackgroundColor White 120
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 121
+Write-Host -ForegroundColor Blue -BackgroundColor DarkYellow 122
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Red 123
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Red 124
+Write-Host -ForegroundColor White -BackgroundColor Green 125
+Write-Host -ForegroundColor Green -BackgroundColor White 126
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkCyan 127
+Write-Host -ForegroundColor DarkGray -BackgroundColor Green 128
+Write-Host -ForegroundColor Cyan -BackgroundColor Yellow 129
+Write-Host -ForegroundColor Magenta -BackgroundColor Black 130
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkYellow 131
+Write-Host -ForegroundColor DarkRed -BackgroundColor Blue 132
+Write-Host -ForegroundColor Magenta -BackgroundColor Cyan 133
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkRed 134
+Write-Host -ForegroundColor Green -BackgroundColor DarkRed 135
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Green 136
+Write-Host -ForegroundColor DarkGray -BackgroundColor Red 137
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Black 138
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 139
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Green 140
+Write-Host -ForegroundColor DarkGray -BackgroundColor Yellow 141
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkBlue 142
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkRed 143
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkYellow 144
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Blue 145
+Write-Host -ForegroundColor Blue -BackgroundColor DarkGreen 146
+Write-Host -ForegroundColor Black -BackgroundColor DarkGreen 147
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkCyan 148
+Write-Host -ForegroundColor Black -BackgroundColor DarkMagenta 149
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkYellow 150
+Write-Host -ForegroundColor Green -BackgroundColor DarkRed 151
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkCyan 152
+Write-Host -ForegroundColor White -BackgroundColor Cyan 153
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkBlue 154
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkBlue 155
+Write-Host -ForegroundColor Magenta -BackgroundColor Gray 156
+Write-Host -ForegroundColor DarkGray -BackgroundColor Black 157
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Black 158
+Write-Host -ForegroundColor White -BackgroundColor Green 159
+Write-Host -ForegroundColor Green -BackgroundColor DarkGray 160
+Write-Host -ForegroundColor Cyan -BackgroundColor Cyan 161
+Write-Host -ForegroundColor DarkRed -BackgroundColor Gray 162
+Write-Host -ForegroundColor Blue -BackgroundColor White 163
+Write-Host -ForegroundColor Black -BackgroundColor DarkGreen 164
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkGray 165
+Write-Host -ForegroundColor White -BackgroundColor Yellow 166
+Write-Host -ForegroundColor Magenta -BackgroundColor Black 167
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGreen 168
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Magenta 169
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkGreen 170
+Write-Host -ForegroundColor White -BackgroundColor DarkRed 171
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkMagenta 172
+Write-Host -ForegroundColor DarkRed -BackgroundColor Green 173
+Write-Host -ForegroundColor White -BackgroundColor Gray 174
+Write-Host -ForegroundColor Blue -BackgroundColor White 175
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkGray 176
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkGreen 177
+Write-Host -ForegroundColor Gray -BackgroundColor Blue 178
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkBlue 179
+Write-Host -ForegroundColor Blue -BackgroundColor DarkMagenta 180
+Write-Host -ForegroundColor Black -BackgroundColor Black 181
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkYellow 182
+Write-Host -ForegroundColor DarkRed -BackgroundColor White 183
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkCyan 184
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkBlue 185
+Write-Host -ForegroundColor DarkBlue -BackgroundColor White 186
+Write-Host -ForegroundColor Green -BackgroundColor Blue 187
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Gray 188
+Write-Host -ForegroundColor Cyan -BackgroundColor Magenta 189
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkYellow 190
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Black 191
+Write-Host -ForegroundColor DarkRed -BackgroundColor Blue 192
+Write-Host -ForegroundColor DarkRed -BackgroundColor Green 193
+Write-Host -ForegroundColor DarkGray -BackgroundColor Magenta 194
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGray 195
+Write-Host -ForegroundColor Yellow -BackgroundColor Black 196
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 197
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGray 198
+Write-Host -ForegroundColor White -BackgroundColor Green 199
+Write-Host -ForegroundColor Red -BackgroundColor DarkMagenta 200
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkGray 201
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkBlue 202
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Cyan 203
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGray 204
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Black 205
+Write-Host -ForegroundColor Yellow -BackgroundColor Blue 206
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Green 207
+Write-Host -ForegroundColor White -BackgroundColor DarkYellow 208
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkBlue 209
+Write-Host -ForegroundColor White -BackgroundColor Cyan 210
+Write-Host -ForegroundColor Cyan -BackgroundColor Blue 211
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkMagenta 212
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkGray 213
+Write-Host -ForegroundColor Blue -BackgroundColor Gray 214
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Gray 215
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Yellow 216
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkGray 217
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 218
+Write-Host -ForegroundColor Magenta -BackgroundColor Green 219
+Write-Host -ForegroundColor DarkYellow -BackgroundColor White 220
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkYellow 221
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkYellow 222
+Write-Host -ForegroundColor DarkGray -BackgroundColor Cyan 223
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Black 224
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Gray 225
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkBlue 226
+Write-Host -ForegroundColor Blue -BackgroundColor DarkMagenta 227
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkYellow 228
+Write-Host -ForegroundColor Green -BackgroundColor White 229
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Yellow 230
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkYellow 231
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGreen 232
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkGreen 233
+Write-Host -ForegroundColor Cyan -BackgroundColor Yellow 234
+Write-Host -ForegroundColor Green -BackgroundColor DarkCyan 235
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkYellow 236
+Write-Host -ForegroundColor DarkCyan -BackgroundColor White 237
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkMagenta 238
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkYellow 239
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkBlue 240
+Write-Host -ForegroundColor Gray -BackgroundColor DarkRed 241
+Write-Host -ForegroundColor Black -BackgroundColor White 242
+Write-Host -ForegroundColor DarkGray -BackgroundColor Black 243
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkCyan 244
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Magenta 245
+Write-Host -ForegroundColor White -BackgroundColor Yellow 246
+Write-Host -ForegroundColor Green -BackgroundColor Gray 247
+Write-Host -ForegroundColor Blue -BackgroundColor Black 248
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkCyan 249
+Write-Host -ForegroundColor Red -BackgroundColor Yellow 250
+Write-Host -ForegroundColor Magenta -BackgroundColor Black 251
+Write-Host -ForegroundColor Blue -BackgroundColor DarkCyan 252
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Cyan 253
+Write-Host -ForegroundColor Black -BackgroundColor Blue 254
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Yellow 255
+Write-Host -ForegroundColor Red -BackgroundColor DarkGreen 256
+Write-Host -ForegroundColor Red -BackgroundColor Cyan 257
+Write-Host -ForegroundColor Cyan -BackgroundColor White 258
+Write-Host -ForegroundColor Blue -BackgroundColor Blue 259
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkYellow 260
+Write-Host -ForegroundColor Magenta -BackgroundColor Magenta 261
+Write-Host -ForegroundColor DarkGray -BackgroundColor Red 262
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Cyan 263
+Write-Host -ForegroundColor Red -BackgroundColor White 264
+Write-Host -ForegroundColor Gray -BackgroundColor DarkYellow 265
+Write-Host -ForegroundColor DarkRed -BackgroundColor Gray 266
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkGreen 267
+Write-Host -ForegroundColor DarkGray -BackgroundColor Cyan 268
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkYellow 269
+Write-Host -ForegroundColor Green -BackgroundColor DarkRed 270
+Write-Host -ForegroundColor Yellow -BackgroundColor Cyan 271
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkRed 272
+Write-Host -ForegroundColor White -BackgroundColor Red 273
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkYellow 274
+Write-Host -ForegroundColor Magenta -BackgroundColor Magenta 275
+Write-Host -ForegroundColor Cyan -BackgroundColor Black 276
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkGray 277
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 278
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkMagenta 279
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkCyan 280
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor White 281
+Write-Host -ForegroundColor Green -BackgroundColor DarkGreen 282
+Write-Host -ForegroundColor Gray -BackgroundColor White 283
+Write-Host -ForegroundColor White -BackgroundColor Gray 284
+Write-Host -ForegroundColor Gray -BackgroundColor Green 285
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkYellow 286
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Yellow 287
+Write-Host -ForegroundColor Red -BackgroundColor DarkCyan 288
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Blue 289
+Write-Host -ForegroundColor White -BackgroundColor DarkMagenta 290
+Write-Host -ForegroundColor White -BackgroundColor Blue 291
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkYellow 292
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkYellow 293
+Write-Host -ForegroundColor DarkGray -BackgroundColor Black 294
+Write-Host -ForegroundColor Cyan -BackgroundColor Black 295
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Magenta 296
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkYellow 297
+Write-Host -ForegroundColor DarkBlue -BackgroundColor White 298
+Write-Host -ForegroundColor Yellow -BackgroundColor White 299
+Write-Host -ForegroundColor Black -BackgroundColor DarkGray 300
+Write-Host -ForegroundColor White -BackgroundColor Yellow 301
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Black 302
+Write-Host -ForegroundColor Magenta -BackgroundColor Magenta 303
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Gray 304
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Gray 305
+Write-Host -ForegroundColor DarkGray -BackgroundColor White 306
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkGreen 307
+Write-Host -ForegroundColor Green -BackgroundColor DarkCyan 308
+Write-Host -ForegroundColor Cyan -BackgroundColor Green 309
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Yellow 310
+Write-Host -ForegroundColor Blue -BackgroundColor Cyan 311
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkMagenta 312
+Write-Host -ForegroundColor DarkGray -BackgroundColor Red 313
+Write-Host -ForegroundColor DarkBlue -BackgroundColor White 314
+Write-Host -ForegroundColor Blue -BackgroundColor Green 315
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkBlue 316
+Write-Host -ForegroundColor White -BackgroundColor DarkCyan 317
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Magenta 318
+Write-Host -ForegroundColor Red -BackgroundColor DarkGray 319
+Write-Host -ForegroundColor DarkRed -BackgroundColor Green 320
+Write-Host -ForegroundColor Cyan -BackgroundColor Red 321
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkBlue 322
+Write-Host -ForegroundColor White -BackgroundColor Cyan 323
+Write-Host -ForegroundColor White -BackgroundColor Blue 324
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGreen 325
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 326
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkMagenta 327
+Write-Host -ForegroundColor Blue -BackgroundColor DarkGreen 328
+Write-Host -ForegroundColor Red -BackgroundColor Black 329
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkGray 330
+Write-Host -ForegroundColor Blue -BackgroundColor Magenta 331
+Write-Host -ForegroundColor Gray -BackgroundColor Black 332
+Write-Host -ForegroundColor Magenta -BackgroundColor Black 333
+Write-Host -ForegroundColor Black -BackgroundColor DarkCyan 334
+Write-Host -ForegroundColor White -BackgroundColor DarkGray 335
+Write-Host -ForegroundColor DarkRed -BackgroundColor White 336
+Write-Host -ForegroundColor Cyan -BackgroundColor Blue 337
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 338
+Write-Host -ForegroundColor Green -BackgroundColor Black 339
+Write-Host -ForegroundColor Red -BackgroundColor Gray 340
+Write-Host -ForegroundColor Blue -BackgroundColor Yellow 341
+Write-Host -ForegroundColor DarkGray -BackgroundColor Red 342
+Write-Host -ForegroundColor Yellow -BackgroundColor Gray 343
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Blue 344
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Blue 345
+Write-Host -ForegroundColor DarkGray -BackgroundColor Yellow 346
+Write-Host -ForegroundColor Cyan -BackgroundColor Gray 347
+Write-Host -ForegroundColor Green -BackgroundColor DarkGreen 348
+Write-Host -ForegroundColor DarkGray -BackgroundColor Magenta 349
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkBlue 350
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Cyan 351
+Write-Host -ForegroundColor Blue -BackgroundColor DarkRed 352
+Write-Host -ForegroundColor Gray -BackgroundColor Cyan 353
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkYellow 354
+Write-Host -ForegroundColor Cyan -BackgroundColor Cyan 355
+Write-Host -ForegroundColor DarkRed -BackgroundColor Green 356
+Write-Host -ForegroundColor DarkRed -BackgroundColor Blue 357
+Write-Host -ForegroundColor DarkRed -BackgroundColor Green 358
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkRed 359
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkBlue 360
+Write-Host -ForegroundColor Cyan -BackgroundColor Gray 361
+Write-Host -ForegroundColor Black -BackgroundColor DarkBlue 362
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkMagenta 363
+Write-Host -ForegroundColor Magenta -BackgroundColor Black 364
+Write-Host -ForegroundColor Gray -BackgroundColor Magenta 365
+Write-Host -ForegroundColor Gray -BackgroundColor Red 366
+Write-Host -ForegroundColor Magenta -BackgroundColor Magenta 367
+Write-Host -ForegroundColor Red -BackgroundColor White 368
+Write-Host -ForegroundColor DarkGray -BackgroundColor Magenta 369
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkCyan 370
+Write-Host -ForegroundColor Green -BackgroundColor DarkBlue 371
+Write-Host -ForegroundColor Black -BackgroundColor DarkMagenta 372
+Write-Host -ForegroundColor Green -BackgroundColor DarkGreen 373
+Write-Host -ForegroundColor DarkCyan -BackgroundColor White 374
+Write-Host -ForegroundColor Cyan -BackgroundColor Gray 375
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkCyan 376
+Write-Host -ForegroundColor Green -BackgroundColor Green 377
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Blue 378
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkRed 379
+Write-Host -ForegroundColor Black -BackgroundColor White 380
+Write-Host -ForegroundColor Red -BackgroundColor DarkGray 381
+Write-Host -ForegroundColor DarkRed -BackgroundColor Green 382
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Black 383
+Write-Host -ForegroundColor Blue -BackgroundColor DarkBlue 384
+Write-Host -ForegroundColor Cyan -BackgroundColor Black 385
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkYellow 386
+Write-Host -ForegroundColor White -BackgroundColor DarkGray 387
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Gray 388
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Magenta 389
+Write-Host -ForegroundColor Red -BackgroundColor DarkYellow 390
+Write-Host -ForegroundColor Blue -BackgroundColor DarkYellow 391
+Write-Host -ForegroundColor Gray -BackgroundColor DarkYellow 392
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Black 393
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkCyan 394
+Write-Host -ForegroundColor DarkRed -BackgroundColor Cyan 395
+Write-Host -ForegroundColor White -BackgroundColor Yellow 396
+Write-Host -ForegroundColor Magenta -BackgroundColor Blue 397
+Write-Host -ForegroundColor DarkRed -BackgroundColor Cyan 398
+Write-Host -ForegroundColor Gray -BackgroundColor DarkCyan 399
+Write-Host -ForegroundColor Green -BackgroundColor White 400
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 401
+Write-Host -ForegroundColor DarkRed -BackgroundColor Red 402
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkRed 403
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkCyan 404
+Write-Host -ForegroundColor DarkRed -BackgroundColor Yellow 405
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkBlue 406
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkMagenta 407
+Write-Host -ForegroundColor Gray -BackgroundColor DarkYellow 408
+Write-Host -ForegroundColor Black -BackgroundColor Blue 409
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Blue 410
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkCyan 411
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Black 412
+Write-Host -ForegroundColor Yellow -BackgroundColor Red 413
+Write-Host -ForegroundColor Green -BackgroundColor Cyan 414
+Write-Host -ForegroundColor DarkRed -BackgroundColor Magenta 415
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 416
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkGray 417
+Write-Host -ForegroundColor Green -BackgroundColor DarkMagenta 418
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkYellow 419
+Write-Host -ForegroundColor Blue -BackgroundColor DarkMagenta 420
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkGray 421
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkBlue 422
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkGreen 423
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkYellow 424
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkRed 425
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkCyan 426
+Write-Host -ForegroundColor Cyan -BackgroundColor Green 427
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkYellow 428
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Green 429
+Write-Host -ForegroundColor Gray -BackgroundColor DarkCyan 430
+Write-Host -ForegroundColor Green -BackgroundColor Magenta 431
+Write-Host -ForegroundColor Blue -BackgroundColor DarkMagenta 432
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkYellow 433
+Write-Host -ForegroundColor Blue -BackgroundColor DarkBlue 434
+Write-Host -ForegroundColor Gray -BackgroundColor Yellow 435
+Write-Host -ForegroundColor Red -BackgroundColor Gray 436
+Write-Host -ForegroundColor Magenta -BackgroundColor Magenta 437
+Write-Host -ForegroundColor Green -BackgroundColor DarkRed 438
+Write-Host -ForegroundColor Magenta -BackgroundColor Red 439
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkCyan 440
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkGray 441
+Write-Host -ForegroundColor Black -BackgroundColor DarkGreen 442
+Write-Host -ForegroundColor White -BackgroundColor Blue 443
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkYellow 444
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkGreen 445
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Cyan 446
+Write-Host -ForegroundColor White -BackgroundColor Black 447
+Write-Host -ForegroundColor Blue -BackgroundColor DarkGreen 448
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkCyan 449
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Red 450
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Blue 451
+Write-Host -ForegroundColor Yellow -BackgroundColor Blue 452
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkRed 453
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Black 454
+Write-Host -ForegroundColor Cyan -BackgroundColor Blue 455
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Cyan 456
+Write-Host -ForegroundColor Green -BackgroundColor Magenta 457
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 458
+Write-Host -ForegroundColor Blue -BackgroundColor Blue 459
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkGreen 460
+Write-Host -ForegroundColor Yellow -BackgroundColor Cyan 461
+Write-Host -ForegroundColor DarkYellow -BackgroundColor White 462
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Green 463
+Write-Host -ForegroundColor Yellow -BackgroundColor Black 464
+Write-Host -ForegroundColor Black -BackgroundColor Cyan 465
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkGreen 466
+Write-Host -ForegroundColor White -BackgroundColor Cyan 467
+Write-Host -ForegroundColor Gray -BackgroundColor Gray 468
+Write-Host -ForegroundColor Red -BackgroundColor White 469
+Write-Host -ForegroundColor Blue -BackgroundColor Yellow 470
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkYellow 471
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkCyan 472
+Write-Host -ForegroundColor DarkRed -BackgroundColor Gray 473
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkGreen 474
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkBlue 475
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Cyan 476
+Write-Host -ForegroundColor Cyan -BackgroundColor White 477
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkGreen 478
+Write-Host -ForegroundColor DarkBlue -BackgroundColor White 479
+Write-Host -ForegroundColor Cyan -BackgroundColor Green 480
+Write-Host -ForegroundColor White -BackgroundColor Gray 481
+Write-Host -ForegroundColor Magenta -BackgroundColor Red 482
+Write-Host -ForegroundColor DarkRed -BackgroundColor Green 483
+Write-Host -ForegroundColor Blue -BackgroundColor Green 484
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkGray 485
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkMagenta 486
+Write-Host -ForegroundColor DarkGray -BackgroundColor Gray 487
+Write-Host -ForegroundColor White -BackgroundColor Red 488
+Write-Host -ForegroundColor DarkGray -BackgroundColor Magenta 489
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkGray 490
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkCyan 491
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkCyan 492
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 493
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkCyan 494
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGray 495
+Write-Host -ForegroundColor Magenta -BackgroundColor Yellow 496
+Write-Host -ForegroundColor Green -BackgroundColor Gray 497
+Write-Host -ForegroundColor White -BackgroundColor DarkCyan 498
+Write-Host -ForegroundColor Gray -BackgroundColor Yellow 499
+Write-Host -ForegroundColor Yellow -BackgroundColor Black 500
+Write-Host -ForegroundColor White -BackgroundColor DarkMagenta 501
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkCyan 502
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkGray 503
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Cyan 504
+Write-Host -ForegroundColor Magenta -BackgroundColor Blue 505
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkRed 506
+Write-Host -ForegroundColor Blue -BackgroundColor Cyan 507
+Write-Host -ForegroundColor Gray -BackgroundColor Magenta 508
+Write-Host -ForegroundColor Yellow -BackgroundColor Magenta 509
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkRed 510
+Write-Host -ForegroundColor Green -BackgroundColor DarkGray 511
+Write-Host -ForegroundColor Green -BackgroundColor Magenta 512
+Write-Host -ForegroundColor DarkRed -BackgroundColor Blue 513
+Write-Host -ForegroundColor White -BackgroundColor Red 514
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Cyan 515
+Write-Host -ForegroundColor White -BackgroundColor DarkRed 516
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkBlue 517
+Write-Host -ForegroundColor Red -BackgroundColor DarkGreen 518
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkRed 519
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Yellow 520
+Write-Host -ForegroundColor Red -BackgroundColor Green 521
+Write-Host -ForegroundColor Green -BackgroundColor DarkGreen 522
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Cyan 523
+Write-Host -ForegroundColor Gray -BackgroundColor DarkCyan 524
+Write-Host -ForegroundColor Cyan -BackgroundColor Cyan 525
+Write-Host -ForegroundColor DarkGray -BackgroundColor Cyan 526
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkGray 527
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Black 528
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Cyan 529
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 530
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 531
+Write-Host -ForegroundColor Red -BackgroundColor DarkGray 532
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 533
+Write-Host -ForegroundColor DarkRed -BackgroundColor Cyan 534
+Write-Host -ForegroundColor Magenta -BackgroundColor Magenta 535
+Write-Host -ForegroundColor White -BackgroundColor Blue 536
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkRed 537
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Black 538
+Write-Host -ForegroundColor Black -BackgroundColor White 539
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkGreen 540
+Write-Host -ForegroundColor Green -BackgroundColor Magenta 541
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkYellow 542
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Yellow 543
+Write-Host -ForegroundColor Blue -BackgroundColor Yellow 544
+Write-Host -ForegroundColor DarkRed -BackgroundColor Magenta 545
+Write-Host -ForegroundColor Blue -BackgroundColor White 546
+Write-Host -ForegroundColor Red -BackgroundColor Yellow 547
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkMagenta 548
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGray 549
+Write-Host -ForegroundColor Gray -BackgroundColor Blue 550
+Write-Host -ForegroundColor DarkRed -BackgroundColor Blue 551
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 552
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkCyan 553
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 554
+Write-Host -ForegroundColor Cyan -BackgroundColor Green 555
+Write-Host -ForegroundColor DarkRed -BackgroundColor White 556
+Write-Host -ForegroundColor Red -BackgroundColor Blue 557
+Write-Host -ForegroundColor Black -BackgroundColor DarkYellow 558
+Write-Host -ForegroundColor DarkRed -BackgroundColor Magenta 559
+Write-Host -ForegroundColor DarkGreen -BackgroundColor White 560
+Write-Host -ForegroundColor Black -BackgroundColor Blue 561
+Write-Host -ForegroundColor Green -BackgroundColor DarkCyan 562
+Write-Host -ForegroundColor Red -BackgroundColor Cyan 563
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Cyan 564
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Cyan 565
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkGreen 566
+Write-Host -ForegroundColor Yellow -BackgroundColor Blue 567
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGreen 568
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkGreen 569
+Write-Host -ForegroundColor Green -BackgroundColor White 570
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Blue 571
+Write-Host -ForegroundColor Blue -BackgroundColor DarkBlue 572
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGray 573
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkYellow 574
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkYellow 575
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkGray 576
+Write-Host -ForegroundColor DarkRed -BackgroundColor Blue 577
+Write-Host -ForegroundColor Cyan -BackgroundColor Green 578
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Green 579
+Write-Host -ForegroundColor Yellow -BackgroundColor Yellow 580
+Write-Host -ForegroundColor Magenta -BackgroundColor Green 581
+Write-Host -ForegroundColor Yellow -BackgroundColor Gray 582
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkCyan 583
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGreen 584
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Magenta 585
+Write-Host -ForegroundColor Cyan -BackgroundColor White 586
+Write-Host -ForegroundColor Cyan -BackgroundColor Gray 587
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkRed 588
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkGray 589
+Write-Host -ForegroundColor Black -BackgroundColor DarkMagenta 590
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGray 591
+Write-Host -ForegroundColor White -BackgroundColor Green 592
+Write-Host -ForegroundColor Red -BackgroundColor White 593
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkGreen 594
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Magenta 595
+Write-Host -ForegroundColor Blue -BackgroundColor DarkCyan 596
+Write-Host -ForegroundColor Gray -BackgroundColor Gray 597
+Write-Host -ForegroundColor DarkYellow -BackgroundColor White 598
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Cyan 599
+Write-Host -ForegroundColor DarkBlue -BackgroundColor White 600
+Write-Host -ForegroundColor Black -BackgroundColor Blue 601
+Write-Host -ForegroundColor Blue -BackgroundColor Cyan 602
+Write-Host -ForegroundColor Black -BackgroundColor Green 603
+Write-Host -ForegroundColor Magenta -BackgroundColor Gray 604
+Write-Host -ForegroundColor Gray -BackgroundColor DarkCyan 605
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkYellow 606
+Write-Host -ForegroundColor White -BackgroundColor Yellow 607
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkBlue 608
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Green 609
+Write-Host -ForegroundColor DarkYellow -BackgroundColor White 610
+Write-Host -ForegroundColor Cyan -BackgroundColor Red 611
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Gray 612
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Cyan 613
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Blue 614
+Write-Host -ForegroundColor Green -BackgroundColor White 615
+Write-Host -ForegroundColor Magenta -BackgroundColor Black 616
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkRed 617
+Write-Host -ForegroundColor DarkRed -BackgroundColor Blue 618
+Write-Host -ForegroundColor DarkGray -BackgroundColor Magenta 619
+Write-Host -ForegroundColor Yellow -BackgroundColor Cyan 620
+Write-Host -ForegroundColor Gray -BackgroundColor DarkBlue 621
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkRed 622
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkMagenta 623
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkRed 624
+Write-Host -ForegroundColor Gray -BackgroundColor DarkYellow 625
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Magenta 626
+Write-Host -ForegroundColor Black -BackgroundColor Cyan 627
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Yellow 628
+Write-Host -ForegroundColor Blue -BackgroundColor Gray 629
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkYellow 630
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 631
+Write-Host -ForegroundColor Black -BackgroundColor White 632
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkBlue 633
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 634
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkMagenta 635
+Write-Host -ForegroundColor Black -BackgroundColor DarkGreen 636
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkGreen 637
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkBlue 638
+Write-Host -ForegroundColor Green -BackgroundColor DarkBlue 639
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkRed 640
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkGreen 641
+Write-Host -ForegroundColor White -BackgroundColor Black 642
+Write-Host -ForegroundColor White -BackgroundColor DarkMagenta 643
+Write-Host -ForegroundColor Magenta -BackgroundColor Red 644
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkBlue 645
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkCyan 646
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 647
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkGray 648
+Write-Host -ForegroundColor Gray -BackgroundColor DarkBlue 649
+Write-Host -ForegroundColor White -BackgroundColor Gray 650
+Write-Host -ForegroundColor White -BackgroundColor DarkBlue 651
+Write-Host -ForegroundColor Black -BackgroundColor DarkRed 652
+Write-Host -ForegroundColor Black -BackgroundColor Gray 653
+Write-Host -ForegroundColor Blue -BackgroundColor DarkBlue 654
+Write-Host -ForegroundColor Blue -BackgroundColor DarkBlue 655
+Write-Host -ForegroundColor Gray -BackgroundColor DarkBlue 656
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkCyan 657
+Write-Host -ForegroundColor Yellow -BackgroundColor Yellow 658
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkBlue 659
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkCyan 660
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 661
+Write-Host -ForegroundColor White -BackgroundColor Green 662
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Green 663
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Black 664
+Write-Host -ForegroundColor Gray -BackgroundColor Magenta 665
+Write-Host -ForegroundColor DarkGray -BackgroundColor Magenta 666
+Write-Host -ForegroundColor Magenta -BackgroundColor Cyan 667
+Write-Host -ForegroundColor Blue -BackgroundColor Magenta 668
+Write-Host -ForegroundColor Gray -BackgroundColor Blue 669
+Write-Host -ForegroundColor Gray -BackgroundColor Magenta 670
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor White 671
+Write-Host -ForegroundColor Yellow -BackgroundColor Cyan 672
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Cyan 673
+Write-Host -ForegroundColor Green -BackgroundColor DarkCyan 674
+Write-Host -ForegroundColor Green -BackgroundColor Cyan 675
+Write-Host -ForegroundColor Green -BackgroundColor Green 676
+Write-Host -ForegroundColor DarkRed -BackgroundColor Cyan 677
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkYellow 678
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGray 679
+Write-Host -ForegroundColor Black -BackgroundColor DarkGreen 680
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkBlue 681
+Write-Host -ForegroundColor Black -BackgroundColor Cyan 682
+Write-Host -ForegroundColor Red -BackgroundColor Black 683
+Write-Host -ForegroundColor DarkGray -BackgroundColor Gray 684
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Cyan 685
+Write-Host -ForegroundColor Cyan -BackgroundColor Blue 686
+Write-Host -ForegroundColor Gray -BackgroundColor Cyan 687
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkRed 688
+Write-Host -ForegroundColor White -BackgroundColor Magenta 689
+Write-Host -ForegroundColor Green -BackgroundColor DarkRed 690
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Red 691
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGray 692
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Yellow 693
+Write-Host -ForegroundColor Gray -BackgroundColor Blue 694
+Write-Host -ForegroundColor Green -BackgroundColor Blue 695
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Red 696
+Write-Host -ForegroundColor Gray -BackgroundColor Red 697
+Write-Host -ForegroundColor Gray -BackgroundColor DarkCyan 698
+Write-Host -ForegroundColor DarkRed -BackgroundColor Yellow 699
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Magenta 700
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Yellow 701
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 702
+Write-Host -ForegroundColor Yellow -BackgroundColor Cyan 703
+Write-Host -ForegroundColor White -BackgroundColor Gray 704
+Write-Host -ForegroundColor DarkBlue -BackgroundColor White 705
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkRed 706
+Write-Host -ForegroundColor Cyan -BackgroundColor Blue 707
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkCyan 708
+Write-Host -ForegroundColor Magenta -BackgroundColor White 709
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Blue 710
+Write-Host -ForegroundColor Cyan -BackgroundColor Gray 711
+Write-Host -ForegroundColor Yellow -BackgroundColor Magenta 712
+Write-Host -ForegroundColor White -BackgroundColor Magenta 713
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkRed 714
+Write-Host -ForegroundColor Green -BackgroundColor Gray 715
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkYellow 716
+Write-Host -ForegroundColor Gray -BackgroundColor DarkRed 717
+Write-Host -ForegroundColor White -BackgroundColor Blue 718
+Write-Host -ForegroundColor Yellow -BackgroundColor Cyan 719
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkRed 720
+Write-Host -ForegroundColor White -BackgroundColor Black 721
+Write-Host -ForegroundColor Green -BackgroundColor DarkRed 722
+Write-Host -ForegroundColor Cyan -BackgroundColor White 723
+Write-Host -ForegroundColor Yellow -BackgroundColor Yellow 724
+Write-Host -ForegroundColor Yellow -BackgroundColor Magenta 725
+Write-Host -ForegroundColor Black -BackgroundColor Blue 726
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Green 727
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Magenta 728
+Write-Host -ForegroundColor Cyan -BackgroundColor Red 729
+Write-Host -ForegroundColor Yellow -BackgroundColor Magenta 730
+Write-Host -ForegroundColor Blue -BackgroundColor DarkBlue 731
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Magenta 732
+Write-Host -ForegroundColor Green -BackgroundColor Gray 733
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkGreen 734
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Cyan 735
+Write-Host -ForegroundColor White -BackgroundColor Gray 736
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Magenta 737
+Write-Host -ForegroundColor Yellow -BackgroundColor Gray 738
+Write-Host -ForegroundColor Blue -BackgroundColor Gray 739
+Write-Host -ForegroundColor Red -BackgroundColor Green 740
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Green 741
+Write-Host -ForegroundColor Gray -BackgroundColor DarkMagenta 742
+Write-Host -ForegroundColor Magenta -BackgroundColor Green 743
+Write-Host -ForegroundColor Gray -BackgroundColor Red 744
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkRed 745
+Write-Host -ForegroundColor Gray -BackgroundColor DarkYellow 746
+Write-Host -ForegroundColor White -BackgroundColor DarkMagenta 747
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Black 748
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Blue 749
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkGray 750
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Blue 751
+Write-Host -ForegroundColor Red -BackgroundColor DarkGray 752
+Write-Host -ForegroundColor DarkRed -BackgroundColor Cyan 753
+Write-Host -ForegroundColor Yellow -BackgroundColor Yellow 754
+Write-Host -ForegroundColor Cyan -BackgroundColor Gray 755
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Gray 756
+Write-Host -ForegroundColor Gray -BackgroundColor Blue 757
+Write-Host -ForegroundColor Blue -BackgroundColor Yellow 758
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkGreen 759
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Yellow 760
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGreen 761
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Blue 762
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 763
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Magenta 764
+Write-Host -ForegroundColor Green -BackgroundColor Magenta 765
+Write-Host -ForegroundColor Black -BackgroundColor DarkMagenta 766
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Blue 767
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkBlue 768
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 769
+Write-Host -ForegroundColor Gray -BackgroundColor DarkYellow 770
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 771
+Write-Host -ForegroundColor Red -BackgroundColor Yellow 772
+Write-Host -ForegroundColor Green -BackgroundColor Red 773
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkRed 774
+Write-Host -ForegroundColor DarkGray -BackgroundColor Gray 775
+Write-Host -ForegroundColor Green -BackgroundColor Green 776
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Cyan 777
+Write-Host -ForegroundColor White -BackgroundColor Black 778
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Cyan 779
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkRed 780
+Write-Host -ForegroundColor Black -BackgroundColor Cyan 781
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkCyan 782
+Write-Host -ForegroundColor Red -BackgroundColor Black 783
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkGreen 784
+Write-Host -ForegroundColor Blue -BackgroundColor DarkCyan 785
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Yellow 786
+Write-Host -ForegroundColor DarkGray -BackgroundColor Blue 787
+Write-Host -ForegroundColor Blue -BackgroundColor DarkCyan 788
+Write-Host -ForegroundColor DarkRed -BackgroundColor Magenta 789
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkMagenta 790
+Write-Host -ForegroundColor Magenta -BackgroundColor Gray 791
+Write-Host -ForegroundColor DarkGray -BackgroundColor Red 792
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkBlue 793
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkYellow 794
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Red 795
+Write-Host -ForegroundColor White -BackgroundColor DarkRed 796
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkMagenta 797
+Write-Host -ForegroundColor Gray -BackgroundColor Green 798
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkGreen 799
+Write-Host -ForegroundColor Red -BackgroundColor DarkYellow 800
+Write-Host -ForegroundColor Yellow -BackgroundColor Blue 801
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkGray 802
+Write-Host -ForegroundColor DarkGray -BackgroundColor Red 803
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkYellow 804
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkGray 805
+Write-Host -ForegroundColor Blue -BackgroundColor DarkYellow 806
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkBlue 807
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 808
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Black 809
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Blue 810
+Write-Host -ForegroundColor Magenta -BackgroundColor Magenta 811
+Write-Host -ForegroundColor White -BackgroundColor Yellow 812
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Red 813
+Write-Host -ForegroundColor White -BackgroundColor DarkGray 814
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Cyan 815
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Yellow 816
+Write-Host -ForegroundColor Black -BackgroundColor Black 817
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Red 818
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkMagenta 819
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkRed 820
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkMagenta 821
+Write-Host -ForegroundColor Gray -BackgroundColor Cyan 822
+Write-Host -ForegroundColor Blue -BackgroundColor Gray 823
+Write-Host -ForegroundColor Black -BackgroundColor Green 824
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkBlue 825
+Write-Host -ForegroundColor Gray -BackgroundColor Gray 826
+Write-Host -ForegroundColor Black -BackgroundColor DarkGray 827
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkBlue 828
+Write-Host -ForegroundColor Black -BackgroundColor White 829
+Write-Host -ForegroundColor Red -BackgroundColor DarkRed 830
+Write-Host -ForegroundColor Blue -BackgroundColor DarkGray 831
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkRed 832
+Write-Host -ForegroundColor White -BackgroundColor DarkCyan 833
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkBlue 834
+Write-Host -ForegroundColor Yellow -BackgroundColor Blue 835
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkRed 836
+Write-Host -ForegroundColor Blue -BackgroundColor Green 837
+Write-Host -ForegroundColor Green -BackgroundColor Yellow 838
+Write-Host -ForegroundColor White -BackgroundColor Yellow 839
+Write-Host -ForegroundColor Yellow -BackgroundColor Gray 840
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGreen 841
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkBlue 842
+Write-Host -ForegroundColor Black -BackgroundColor DarkMagenta 843
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkYellow 844
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkCyan 845
+Write-Host -ForegroundColor Cyan -BackgroundColor Green 846
+Write-Host -ForegroundColor DarkRed -BackgroundColor Magenta 847
+Write-Host -ForegroundColor Magenta -BackgroundColor Cyan 848
+Write-Host -ForegroundColor Magenta -BackgroundColor White 849
+Write-Host -ForegroundColor Red -BackgroundColor Black 850
+Write-Host -ForegroundColor DarkRed -BackgroundColor Gray 851
+Write-Host -ForegroundColor Cyan -BackgroundColor Black 852
+Write-Host -ForegroundColor Magenta -BackgroundColor Blue 853
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkGreen 854
+Write-Host -ForegroundColor White -BackgroundColor Gray 855
+Write-Host -ForegroundColor Blue -BackgroundColor White 856
+Write-Host -ForegroundColor Cyan -BackgroundColor Red 857
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkCyan 858
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Black 859
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkGreen 860
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Red 861
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkYellow 862
+Write-Host -ForegroundColor Black -BackgroundColor DarkRed 863
+Write-Host -ForegroundColor Blue -BackgroundColor Black 864
+Write-Host -ForegroundColor Black -BackgroundColor White 865
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGreen 866
+Write-Host -ForegroundColor Yellow -BackgroundColor Gray 867
+Write-Host -ForegroundColor Red -BackgroundColor DarkRed 868
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkRed 869
+Write-Host -ForegroundColor DarkRed -BackgroundColor Magenta 870
+Write-Host -ForegroundColor Red -BackgroundColor DarkBlue 871
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkGray 872
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkMagenta 873
+Write-Host -ForegroundColor DarkRed -BackgroundColor Yellow 874
+Write-Host -ForegroundColor Cyan -BackgroundColor Blue 875
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkMagenta 876
+Write-Host -ForegroundColor Magenta -BackgroundColor Yellow 877
+Write-Host -ForegroundColor DarkGray -BackgroundColor Cyan 878
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Green 879
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkGreen 880
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Gray 881
+Write-Host -ForegroundColor Black -BackgroundColor DarkMagenta 882
+Write-Host -ForegroundColor Yellow -BackgroundColor Blue 883
+Write-Host -ForegroundColor Gray -BackgroundColor Magenta 884
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 885
+Write-Host -ForegroundColor Blue -BackgroundColor Yellow 886
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkMagenta 887
+Write-Host -ForegroundColor DarkRed -BackgroundColor Black 888
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkMagenta 889
+Write-Host -ForegroundColor Black -BackgroundColor White 890
+Write-Host -ForegroundColor Magenta -BackgroundColor Cyan 891
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Black 892
+Write-Host -ForegroundColor Yellow -BackgroundColor Yellow 893
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkBlue 894
+Write-Host -ForegroundColor Blue -BackgroundColor Cyan 895
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 896
+Write-Host -ForegroundColor Green -BackgroundColor DarkGreen 897
+Write-Host -ForegroundColor Blue -BackgroundColor Cyan 898
+Write-Host -ForegroundColor White -BackgroundColor Yellow 899
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkYellow 900
+Write-Host -ForegroundColor Blue -BackgroundColor Cyan 901
+Write-Host -ForegroundColor Cyan -BackgroundColor Magenta 902
+Write-Host -ForegroundColor Black -BackgroundColor Black 903
+Write-Host -ForegroundColor DarkYellow -BackgroundColor Black 904
+Write-Host -ForegroundColor Gray -BackgroundColor DarkMagenta 905
+Write-Host -ForegroundColor Cyan -BackgroundColor White 906
+Write-Host -ForegroundColor Yellow -BackgroundColor Green 907
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Blue 908
+Write-Host -ForegroundColor Green -BackgroundColor Blue 909
+Write-Host -ForegroundColor Blue -BackgroundColor Gray 910
+Write-Host -ForegroundColor Green -BackgroundColor Blue 911
+Write-Host -ForegroundColor DarkRed -BackgroundColor DarkMagenta 912
+Write-Host -ForegroundColor White -BackgroundColor DarkGreen 913
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkRed 914
+Write-Host -ForegroundColor Blue -BackgroundColor DarkGreen 915
+Write-Host -ForegroundColor DarkGray -BackgroundColor Black 916
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Black 917
+Write-Host -ForegroundColor Red -BackgroundColor DarkYellow 918
+Write-Host -ForegroundColor Gray -BackgroundColor DarkBlue 919
+Write-Host -ForegroundColor Blue -BackgroundColor Red 920
+Write-Host -ForegroundColor Cyan -BackgroundColor White 921
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkGray 922
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGreen 923
+Write-Host -ForegroundColor Yellow -BackgroundColor Yellow 924
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkMagenta 925
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor DarkGray 926
+Write-Host -ForegroundColor Magenta -BackgroundColor Blue 927
+Write-Host -ForegroundColor White -BackgroundColor Black 928
+Write-Host -ForegroundColor Blue -BackgroundColor DarkYellow 929
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkMagenta 930
+Write-Host -ForegroundColor Blue -BackgroundColor DarkGray 931
+Write-Host -ForegroundColor Blue -BackgroundColor DarkRed 932
+Write-Host -ForegroundColor Yellow -BackgroundColor Black 933
+Write-Host -ForegroundColor DarkGray -BackgroundColor Red 934
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 935
+Write-Host -ForegroundColor White -BackgroundColor Yellow 936
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Red 937
+Write-Host -ForegroundColor Gray -BackgroundColor Green 938
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Gray 939
+Write-Host -ForegroundColor DarkGray -BackgroundColor Green 940
+Write-Host -ForegroundColor Cyan -BackgroundColor Cyan 941
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Gray 942
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Blue 943
+Write-Host -ForegroundColor Red -BackgroundColor Red 944
+Write-Host -ForegroundColor Red -BackgroundColor Magenta 945
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Green 946
+Write-Host -ForegroundColor DarkCyan -BackgroundColor DarkRed 947
+Write-Host -ForegroundColor DarkGray -BackgroundColor Magenta 948
+Write-Host -ForegroundColor Magenta -BackgroundColor Yellow 949
+Write-Host -ForegroundColor Green -BackgroundColor DarkGray 950
+Write-Host -ForegroundColor Magenta -BackgroundColor Blue 951
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Red 952
+Write-Host -ForegroundColor Gray -BackgroundColor DarkGreen 953
+Write-Host -ForegroundColor DarkBlue -BackgroundColor DarkBlue 954
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkYellow 955
+Write-Host -ForegroundColor Black -BackgroundColor Blue 956
+Write-Host -ForegroundColor Black -BackgroundColor Cyan 957
+Write-Host -ForegroundColor DarkGray -BackgroundColor Gray 958
+Write-Host -ForegroundColor Yellow -BackgroundColor Black 959
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkBlue 960
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkCyan 961
+Write-Host -ForegroundColor Red -BackgroundColor Yellow 962
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkYellow 963
+Write-Host -ForegroundColor White -BackgroundColor Red 964
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkGray 965
+Write-Host -ForegroundColor Green -BackgroundColor Yellow 966
+Write-Host -ForegroundColor Green -BackgroundColor Magenta 967
+Write-Host -ForegroundColor White -BackgroundColor DarkGray 968
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkGreen 969
+Write-Host -ForegroundColor Green -BackgroundColor DarkYellow 970
+Write-Host -ForegroundColor Green -BackgroundColor White 971
+Write-Host -ForegroundColor Green -BackgroundColor DarkBlue 972
+Write-Host -ForegroundColor Red -BackgroundColor Magenta 973
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor White 974
+Write-Host -ForegroundColor Black -BackgroundColor Cyan 975
+Write-Host -ForegroundColor Gray -BackgroundColor Cyan 976
+Write-Host -ForegroundColor Magenta -BackgroundColor DarkGreen 977
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkRed 978
+Write-Host -ForegroundColor Yellow -BackgroundColor Yellow 979
+Write-Host -ForegroundColor DarkMagenta -BackgroundColor Red 980
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkYellow 981
+Write-Host -ForegroundColor Gray -BackgroundColor Gray 982
+Write-Host -ForegroundColor Green -BackgroundColor DarkBlue 983
+Write-Host -ForegroundColor Black -BackgroundColor DarkRed 984
+Write-Host -ForegroundColor Cyan -BackgroundColor DarkGreen 985
+Write-Host -ForegroundColor DarkCyan -BackgroundColor Gray 986
+Write-Host -ForegroundColor DarkGray -BackgroundColor DarkMagenta 987
+Write-Host -ForegroundColor DarkYellow -BackgroundColor DarkMagenta 988
+Write-Host -ForegroundColor Yellow -BackgroundColor DarkBlue 989
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Cyan 990
+Write-Host -ForegroundColor Red -BackgroundColor Gray 991
+Write-Host -ForegroundColor DarkGreen -BackgroundColor Gray 992
+Write-Host -ForegroundColor Black -BackgroundColor DarkRed 993
+Write-Host -ForegroundColor Black -BackgroundColor Magenta 994
+Write-Host -ForegroundColor Black -BackgroundColor Green 995
+Write-Host -ForegroundColor Green -BackgroundColor Black 996
+Write-Host -ForegroundColor DarkGreen -BackgroundColor DarkCyan 997
+Write-Host -ForegroundColor DarkBlue -BackgroundColor Gray 998
+Write-Host -ForegroundColor Black -BackgroundColor Blue 999
+Write-Host -ForegroundColor White -BackgroundColor Red 1000
