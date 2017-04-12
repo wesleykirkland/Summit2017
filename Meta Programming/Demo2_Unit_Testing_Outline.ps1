@@ -19,7 +19,7 @@ foreach ($Cmdlet in $ModuleCmdlets) {
 
 $arrayfile += '}'
 
-$File2 | Add-Content -Path $File2
+$arrayfile | Add-Content -Path $File2
 
 #Our code should look like this
 <#
