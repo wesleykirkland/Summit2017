@@ -8,6 +8,7 @@ PowerShell Global Summit 2017 Content
 # What this is and how to use it
 This is my collection of files from the PowerShell Global Summit 2017 for my lightning demo on [Meta Programming](https://en.wikipedia.org/wiki/Metaprogramming) with PowerShell
 Included in this repo are 4 sample script files.
+
 Demo1_Puppy_Killer.ps1 - This example is randomly generating a bunch of static Write-Host lines to randomly select a foreground and background color. It builds the code line by line and then writes it out to a static file.
 
 Demo2_Unit_Testing_Outline.ps1 - This example builds a pester unit test outline for every cmdlet in a module. The inspiration for this is I'm an engineer and I am truly lazy at heart. Why would I waste time writing an outline by hand, when a simple PowerShell script can do it for me in 20 lines with indentation!
